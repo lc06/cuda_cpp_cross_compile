@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/liaocai/code/cplusplus/cudatest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -o CMakeFiles\\cudatest.dir\\main.cpp.obj -c D:\\liaocai\\code\\cplusplus\\cudatest\\main.cpp",
+  "file": "D:/liaocai/code/cplusplus/cudatest/main.cpp",
+  "output": "CMakeFiles/cudatest.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,10 @@
+^D:\LIAOCAI\CODE\CPLUSPLUS\CUDATEST\BUILD\CMAKEFILES\6D1B30E67920F11A76693A8CD435C742\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/liaocai/code/cplusplus/cudatest -BD:/liaocai/code/cplusplus/cudatest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/liaocai/code/cplusplus/cudatest/build/cudatest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/liaocai/code/cplusplus/cudatest/build/CMakeFiles/cudatest.dir
+D:/liaocai/code/cplusplus/cudatest/build/CMakeFiles/ALL_BUILD.dir
+D:/liaocai/code/cplusplus/cudatest/build/CMakeFiles/ZERO_CHECK.dir

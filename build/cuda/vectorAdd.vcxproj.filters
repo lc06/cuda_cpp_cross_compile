@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="..\..\cuda\vectorAdd.cu">
+      <Filter>Source</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\liaocai\code\cplusplus\cudatest\cuda\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\liaocai\code\cplusplus\cudatest\cuda\vectorAdd.cuh">
+      <Filter>Include</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{0BC57ED1-DA59-3B17-A2EF-D33C61E07B22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F2F721F0-F38F-372C-ADCF-0FE4F953A4CA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
