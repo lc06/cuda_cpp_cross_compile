@@ -9,7 +9,7 @@ __global__ void vectorAdd(float* a, float* b, float* c, int n)
     }
 }
 
-extern "C" void printResult() {
+void printResult() {
     constexpr int n = 100000;
     float* a = new float[n];
     float* b = new float[n];
